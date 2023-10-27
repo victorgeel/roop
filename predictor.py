@@ -2,7 +2,6 @@ import threading
 import numpy
 from PIL import Image
 from keras import Model
-
 from roop.typing import Frame
 
 PREDICTOR = None
